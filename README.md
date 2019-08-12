@@ -13,7 +13,7 @@ Lesson Plan Template:
 **Course**: DS   <br/>
 **Mod**: Mod 2    V2                <br/>
 **Topic**:  OOP Intro Principals and Practice  <br/>
-**Amount of time**: 90  minjute <br/>
+**Amount of time**: 70-90  minutes <br/>
 **Author**: Alison Peebles Madigan  
 
 Adapted from the ds-lesson-starters repository [here](https://github.com/learn-co-curriculum/ds-lessons-starter/tree/master/lesson-plans-by-mod/Module-2/oop-1-lexicon-terms-concepts-brick-10)
@@ -21,6 +21,8 @@ Adapted from the ds-lesson-starters repository [here](https://github.com/learn-c
 ***
 
 ## Lesson Summary:
+
+This lesson introduces the concept of OOP by building upon student's knowledge of defining function and their previous exposure to instances of class objects through pandas DataFrames. From there, simple class examples are demonstrated, and student's knowledge is checked through exercises asking them to modify and extend these classes with additional functionality. Student's are then posed with a question regarding how to design a class to monitor stock, which should open up a small discussion.
 
 #### Topic:
 OOP: Or why a data scientist should care about classes
@@ -47,7 +49,6 @@ OOP is something only PROGRAMMERS do
 - slide deck
 - ipynb
 - airlines databases
-- a million pics 
 
 ***
 ## Lesson Plan
@@ -60,10 +61,10 @@ You want to build an automated datascience pipeline to monitor and predict stock
 #### Learning Goals:
 While we won't complete this today, in order to build that you'd need to:
 
-- describe the limits of custom functions
-- identify and paraphrase the vocabulary of Object Oriented Programming
-- build a new small sample class
-- map out the blueprint of a class for the stock monitoring data science pipeline
+- Describe the limits of custom functions
+- Identify and paraphrase the vocabulary of Object Oriented Programming
+- Build a new small sample class
+- Map out the blueprint of a class for the stock monitoring data science pipeline
 
 **Step**: Learning goal 1:  describe the limits of custom functions <br/>
 **Time**: 5 min
@@ -83,16 +84,16 @@ _Discussion_
  _Application_ : Comes at end
 
 **Step**: Learning goal 2:  identify and paraphrase the vocabulary of Object Oriented Programming <br/>
-**Time**:  min
+**Time**: 10 min
 
 _Demonstration_
 
-- guide them through discussion of code along.
-- point out that even when an object has no data, you can still call it's attributes
+- Guide them through discussion of code along.
+- Point out that even when an object has no data, you can still call it's attributes
 
 _Application_
 
-- have them explore the methods and attributes of data frames
+- Have them explore the methods and attributes of data frames
 
 
 _informal assessment_
